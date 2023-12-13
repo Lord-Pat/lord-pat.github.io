@@ -1,46 +1,44 @@
 <img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
 
-# **Josué Ríos Aguilar**
+# **Patrick Carbajal Malato**
+
+##Contacto
+### Edad: 18 años
+### Residencia: Barcelona
+### Email: pcarbajalmalato@gmail.com
+
 ## Objetivo Profesional
-Tengo nociones de usuario en Cisco, en Wireshark y en la suite ofimática
-de Office 365. Como también, un certificado MOS Excel.
-Mi objetivo se centra en trabajar en el área de redes y también en el de la
-programación
+Mi enfoque de manera profesional es la programación la cual tengo mucha ambicion sobre ella y es mi principal objetivo dentro de la rama de la informatica.
 
 ## Formación
-### 2020 ESO
-INS, Eugeni Ors, L’Hospitalet de Llobregat, Barcelona
-• Con un promedio de un 6 aprobé la ESO.
-### 2020 - Actualidad, FPGM Sistemas Microinformáticos y Redes
- iFP Centro de Formación Profesional, Barcelona
+### 2018-2022 ESO
+INS, Sant Just, Sant Just Desvern, Barcelona
+
+### 2022 - Actualidad, SMX Sistemas Microinformáticos y Redes
+ IFP Centro de Formación Profesional, Barcelona
 
 ### Complementario
-2021 Competencias Digitales Excel (MOS)
+2023 Competencias Digitales Excel Specialist (MOS)
 • Certificado por Microsoft.
- 2021 Inglés B2
+ 2023 Inglés B2
 • English Connection - Pubilla Cases, L’Hospitalet de Llobregat,
 Barcelona
 
 ## Experiencia
-Si bien no dispongo de recorrido o no tengo directamente experiencia
-estoy en proceso de mejora y con ganas de comenzar ya.
+Técnico informático e instalador de localizadores: Verano de 2021 y 2022
+Actualmente trabajando para Formatac a media jornada.
+
 
 ## Competencias personales
-Soy una persona proactiva, con iniciativa, con capacidad de
-organización, además, se gestionar el estrés y sé adaptarme a ambiente
-de trabajo colaborativo social.
+Me considero una persona muy trabajadora y responsable. 
+Me gusta aplicar el máximo de su conocimiento de manera profesional y siempre intentar aprender de manera activa.
 
 ## Otros datos de interés
-Dispongo de tiempo para trabajar por las tardes por lo cual puedo
-adaptarme con facilidad a las exigencias que en su momento se den.
-Si bien el tiempo es una de las cosas que menos me preocupan, he de
-decir que los martes y jueves hago 1h y 30min de inglés. Pero estas se
-pueden adaptar perfectamente a mis prácticas, a fin de aprovechar
-bien el tiempo.
+
 
 ### Idiomas
 | Idioma | Nivel |
 |:---:|   :---:|
-|Castellano | Nivel Alto|
-|Catalán| Nivel Alto|
-|Inglés| Nivel Medio|
+|Castellano | Nativo|
+|Catalán| Nativo|
+|Inglés| Nivel Alto|
