@@ -1,4 +1,4 @@
-<img src="https://github.com/Lord-Pat/lord-pat.github.io/blob/main/IMG_6640.jpg">
+<img src="https://github.com/Lord-Pat/lord-pat.github.io/blob/main/Captura%20de%20pantalla%202023-12-14%20093225.png">
 
 # **Patrick Carbajal Malato**
 
